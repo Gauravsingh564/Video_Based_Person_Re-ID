@@ -18,9 +18,26 @@ Output-
 iLIDS-VID Dataset-
 ![image alt](https://github.com/Gauravsingh564/Video_Based_Person_Re-ID/blob/main/ILIDS_Dataset.png?raw=true)
 
-KENSINGTON_HIGH_STREET-
+KENSINGTON_HIGH_STREET Dataset-
 
+![image alt](https://github.com/Gauravsingh564/Video_Based_Person_Re-ID/blob/main/KENSINGTON_HIGH_STREET.png?raw=true)
+
+2. ResNet-50:
+A deep convolutional neural network (CNN) with residual connections, enabling efficient gradient flow and improved training stability.
+Extracts low-level textures and high-level semantic features for person representation.
+Works well for frame-wise feature extraction in video-based Re-ID.
+
+
+Output-
+
+iLIDS-VID Dataset-
 ![image alt](https://github.com/Gauravsingh564/Video_Based_Person_Re-ID/blob/main/ILIDS_Dataset.png?raw=true)
+
+KENSINGTON_HIGH_STREET Dataset-
+
+![image alt](https://github.com/Gauravsingh564/Video_Based_Person_Re-ID/blob/main/KENSINGTON_HIGH_STREET.png?raw=true)
+
+By combining Swin Transformer’s global feature modeling and ResNet-50’s strong CNN-based representations, your approach enhances discriminative feature learning, improving robustness to challenges like background clutter and occlusions.
 
 
 
