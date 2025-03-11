@@ -8,6 +8,7 @@ Model Used in this Project-
 In this project, you have utilized Swin Transformer and ResNet-50 models for feature extraction in video-based person Re-ID.
 
 1. Swin Transformer:
+
  A hierarchical vision transformer that efficiently captures global and local features using shifted window attention.
  Provides better contextual understanding and robustness to occlusions and pose variations.
  Well-suited for handling long-term dependencies in video sequences.
